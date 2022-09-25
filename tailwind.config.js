@@ -11,6 +11,10 @@ module.exports = {
         Pacifico :['Pacifico'],
         PatrickHand :['Patrick Hand'],
         PermanentMarker :['Permanent Marker'],
+        BebasNeue :['Bebas Neue'],
+        FredokaOne :['Fredoka One'],
+        RockSalt : ['Rock Salt']
+
       }
     },
   },
